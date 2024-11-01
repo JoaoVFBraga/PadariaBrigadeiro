@@ -1,0 +1,11 @@
+footer img {
+    max-width: 150px;
+}
+footer {
+    display: flex;
+    justify-content: center;
+    margin: 60px 0 20px;
+}
+.dev a {
+    color: var(--red);
+}
